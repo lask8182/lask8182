@@ -1,7 +1,7 @@
 # Luan, but you can call me Lou
-🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
-🏳️‍⚧️ My pronouns: he/him 🏳️‍⚧️
-🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
+
+🏳️‍⚧️ My pronouns: he/him
+
 
 I'm a transgender person who loves to learn. I have a degree in History and Analysis and Systems Development. I'm currently working as SRE at Mandic Cloud Solutions and learning more and more about the DevOps world. 
 
