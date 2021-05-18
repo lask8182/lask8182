@@ -1,16 +1,21 @@
-### Hi there 👋
+# Luan, but you can call me Lou
+🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
+🏳️‍⚧️ My pronouns: he/him 🏳️‍⚧️
+🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
 
-<!--
-**lask8182/lask8182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a transgender person who loves to learn. I have a degree in History and Analysis and Systems Development. I'm currently working as SRE at Mandic Cloud Solutions and learning more and more about the DevOps world. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently learning
+
+ - Terraform
+ - Kubernetes
+ - Ansible
+ - AWS/GCP/Azure
+ - GitLab and Jenkins
+ - **All things cloud-related**
+ 
+## I am currently participating in the projects
+
+ -  [EducaTRANSforma](http://educatransforma.com.br/), a technology training program for trans people.
+ - [BOSS - Big Open Source Sibiling](https://github.com/BOSS-BigOpenSourceSibling), program that aims to engage under-represented groups in technology to contribute to Open Source.
