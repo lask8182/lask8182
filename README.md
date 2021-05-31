@@ -18,4 +18,4 @@ I'm a transgender person who loves to learn. I have a degree in History and Anal
 ## I am currently participating in the projects
 
  -  [EducaTRANSforma](http://educatransforma.com.br/), a technology training program for trans people.
- - [BOSS - Big Open Source Sibiling](https://github.com/BOSS-BigOpenSourceSibling), program that aims to engage under-represented groups in technology to contribute to Open Source.
+
